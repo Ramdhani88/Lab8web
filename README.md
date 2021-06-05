@@ -21,3 +21,7 @@ Buka Xampp <img width="962" alt="ss01" src="https://user-images.githubuserconten
 ### Membuat file index.php
 <img width="962" alt="ss5" src="https://user-images.githubusercontent.com/81758035/120887675-7342ac80-c61e-11eb-9286-cc216c1f00a1.png">
 <img width="962" alt="ss6" src="https://user-images.githubusercontent.com/81758035/120887678-75a50680-c61e-11eb-88a5-6a3ed3f5df67.png">
+
+### Penambahan Style.css
+<img width="962" alt="ss7" src="https://user-images.githubusercontent.com/81758035/120887813-2dd2af00-c61f-11eb-993a-90082c773180.png">
+<img width="962" alt="ss8" src="https://user-images.githubusercontent.com/81758035/120887814-2f9c7280-c61f-11eb-9e56-a08d3c2c5d8d.png">
