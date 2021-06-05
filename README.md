@@ -40,6 +40,8 @@ Buka Xampp <img width="962" alt="ss01" src="https://user-images.githubuserconten
 
 ### Membuat file hapus.php
 <img width="962" alt="ss17" src="https://user-images.githubusercontent.com/81758035/120888228-5eb3e380-c621-11eb-89a6-d2fb1d8d2328.png">
-Sebelum
+Sebelum di hapus
 <img width="962" alt="ss8" src="https://user-images.githubusercontent.com/81758035/120888259-7a1eee80-c621-11eb-97a9-8f24fae02dc5.png">
+Sesudah di hapus
+<img width="962" alt="ss18" src="https://user-images.githubusercontent.com/81758035/120888278-96229000-c621-11eb-930e-951e814e7391.png">
 
