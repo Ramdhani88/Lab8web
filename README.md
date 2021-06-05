@@ -5,6 +5,7 @@
 #### Kelas : TI.19.F1
 ### Praktikum 8
 Membuat folder baru dengan nama lab8_php_database <img width="962" alt="ss0" src="https://user-images.githubusercontent.com/81758035/120886532-b437c280-c618-11eb-8552-e9013a5a75d1.png">
+
 Buka Xampp <img width="962" alt="ss01" src="https://user-images.githubusercontent.com/81758035/120886657-3fb15380-c619-11eb-87e9-82ef43a97513.png">
 ## Membuat database 
 <img width="962" alt="ss1" src="https://user-images.githubusercontent.com/81758035/120886766-cebe6b80-c619-11eb-9782-53b54e62deba.png">
