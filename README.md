@@ -25,3 +25,9 @@ Buka Xampp <img width="962" alt="ss01" src="https://user-images.githubuserconten
 ### Penambahan Style.css
 <img width="962" alt="ss7" src="https://user-images.githubusercontent.com/81758035/120887813-2dd2af00-c61f-11eb-993a-90082c773180.png">
 <img width="962" alt="ss8" src="https://user-images.githubusercontent.com/81758035/120887814-2f9c7280-c61f-11eb-9e56-a08d3c2c5d8d.png">
+
+### Membuat file Tambah.php
+<img width="962" alt="ss9" src="https://user-images.githubusercontent.com/81758035/120887956-05978000-c620-11eb-9e2f-01c986c7d8be.png">
+<img width="962" alt="ss10" src="https://user-images.githubusercontent.com/81758035/120887959-07f9da00-c620-11eb-906d-33f448a19aa9.png">
+<img width="962" alt="ss11" src="https://user-images.githubusercontent.com/81758035/120887961-08927080-c620-11eb-9079-4978f93d59ec.png">
+<img width="962" alt="ss12" src="https://user-images.githubusercontent.com/81758035/120887962-09c39d80-c620-11eb-8f8f-4068c2f6b5d2.png">
