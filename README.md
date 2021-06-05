@@ -31,3 +31,15 @@ Buka Xampp <img width="962" alt="ss01" src="https://user-images.githubuserconten
 <img width="962" alt="ss10" src="https://user-images.githubusercontent.com/81758035/120887959-07f9da00-c620-11eb-906d-33f448a19aa9.png">
 <img width="962" alt="ss11" src="https://user-images.githubusercontent.com/81758035/120887961-08927080-c620-11eb-9079-4978f93d59ec.png">
 <img width="962" alt="ss12" src="https://user-images.githubusercontent.com/81758035/120887962-09c39d80-c620-11eb-8f8f-4068c2f6b5d2.png">
+
+### Membuat file ubah.php
+<img width="962" alt="ss13" src="https://user-images.githubusercontent.com/81758035/120888126-e77e4f80-c620-11eb-99e8-4cc5dc108531.png">
+<img width="962" alt="ss14" src="https://user-images.githubusercontent.com/81758035/120888128-e9e0a980-c620-11eb-917a-5735c29eb766.png">
+<img width="962" alt="ss15" src="https://user-images.githubusercontent.com/81758035/120888130-eb11d680-c620-11eb-8779-6bea3d47d857.png">
+<img width="962" alt="ss16" src="https://user-images.githubusercontent.com/81758035/120888134-ebaa6d00-c620-11eb-8a43-84a8271d585c.png">
+
+### Membuat file hapus.php
+<img width="962" alt="ss17" src="https://user-images.githubusercontent.com/81758035/120888228-5eb3e380-c621-11eb-89a6-d2fb1d8d2328.png">
+Sebelum
+<img width="962" alt="ss8" src="https://user-images.githubusercontent.com/81758035/120888259-7a1eee80-c621-11eb-97a9-8f24fae02dc5.png">
+
